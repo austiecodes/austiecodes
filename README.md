@@ -5,12 +5,6 @@ This is Austie coding.
 
 ---
 
-
-![asuka-3](https://raw.githubusercontent.com/austiecodes/paper-img-hosting/main/img/asuka-3.png)
-
-
----
-
 ### Learning...
   
 
