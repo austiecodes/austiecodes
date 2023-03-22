@@ -1,8 +1,11 @@
 This is Austie coding.
 
-### Learning
+## Learning Plan
+* Vue3 + TypeScript
+* SwiftUI
 
-Vue/Swift/Go
+## Ongoing Project
+* Docker Web Manager
 
 ### 
 [![trophy](https://github-profile-trophy.vercel.app/?username=austiecodes)](https://github.com/ryo-ma/github-profile-trophy)
