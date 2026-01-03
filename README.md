@@ -1,5 +1,4 @@
 # About Me
 
-Now: Golang & Python
-
-
+Language: Golang & Python.
+Learning: C++ & Rust.
